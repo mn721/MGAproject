@@ -48,7 +48,7 @@ Kroki do stworzenia bazy:
 
 ## Dostępne końcówki API
 
-Po uruchomieniu serwera wszystkie zasoby dostępne są pod adresem `http://127.0.0.1:8000/api/`. Najważniejsze końcówki to:
+Po uruchomieniu serwera wszystkie zasoby dostępne są pod adresem `http://127.0.0.1:8000/api`:
 
 - **Lista zadań:**  
   `GET /api/tasks/`
@@ -73,3 +73,6 @@ Po uruchomieniu serwera wszystkie zasoby dostępne są pod adresem `http://127.0
 
 - **Rejestracja użytkownika:**  
   `POST /api/register/`  
+
+Projekt wykonany w ramach zadania rekrutacyjnego.
+Autor: Mikołaj Nowacki
